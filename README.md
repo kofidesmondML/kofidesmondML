@@ -1,7 +1,7 @@
-## Hi there 👋
+
 
 <!--
-**kofidesmondML/kofidesmondML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -38,9 +38,9 @@ Previously, I worked as a **Machine Learning Engineer at Cape Wesley Consulting*
 
 ## 📊 GitHub Stats
 
-![Desmond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=desmondkofiboateng&show_icons=true&theme=github_dark&count_private=true)
+![Desmond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kofidesmondML&show_icons=true&theme=github_dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=desmondkofiboateng&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kofidesmondML&layout=compact&theme=github_dark)
 
 ---
 
