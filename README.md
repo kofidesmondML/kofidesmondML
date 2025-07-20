@@ -101,7 +101,7 @@ I'm currently open to **collaborations and research discussions** in:
 
 ## 📫 Get in Touch
 
-- 📧 desmond@capewesley.com  
+- 📧 desmondboateng@u.boisestate.edu  
 - 💼 [LinkedIn](https://linkedin.com/in/dkboateng013)
 
 > “Perfect is a veil for not doing. -Gary Vaynerchuk”
