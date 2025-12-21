@@ -69,7 +69,7 @@ I'm currently open to **collaborations and research discussions** in:
 
 ## 🧾 Papers I'm Currently Reading
 
-- **[Kernel Methods are Competitive for Operator Learning](https://arxiv.org/abs/2304.13202)**  
+- **[Gaussian Processes and Kernel Methods: A Review on Connections and Equivalences](https://arxiv.org/abs/1807.02582)**  
   *Pau Batlle et al* 
 
 - **[A Mathematical Guide to Operator Learning](https://arxiv.org/abs/2312.14688)**
